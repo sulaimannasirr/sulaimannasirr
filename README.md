@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sulaimannasirr
+- 👋 Hi, I’m @sns
 - 👀 I’m interested in building blockchain 
 - 🌱 I’m currently learning developing
 - 💞️ I’m looking to collaborate on 
