@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sns
+- 👋 Hi, I’m @Sulaiman Nasir
 - 👀 I’m interested in building blockchain 
-- 🌱 I’m currently learning developing
+- 🌱 I’m currently learning developing 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
